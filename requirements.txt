@@ -1,0 +1,10 @@
+pandas
+itables
+geopandas
+pyarrow
+requests
+pygris
+matplotlib
+folium
+mapclassify
+contextily
